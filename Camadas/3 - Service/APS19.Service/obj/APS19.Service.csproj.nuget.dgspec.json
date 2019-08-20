@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj": {}
+    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj": {
+    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj",
+        "projectUniqueName": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj",
         "projectName": "APS19.Service",
-        "projectPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj",
+        "projectPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\APS19.Service.csproj",
         "packagesPath": "C:\\Users\\paulo.cristovam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\obj\\",
+        "outputPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\3 - Service\\APS19.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

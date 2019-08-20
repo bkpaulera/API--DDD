@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\paulo.cristovam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Projeto 1\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\paulo.cristovam\\Documents\\Projects\\Git Clones Project\\Aps-2019\\Camadas\\1 - Aplication\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,7 +50,7 @@
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
