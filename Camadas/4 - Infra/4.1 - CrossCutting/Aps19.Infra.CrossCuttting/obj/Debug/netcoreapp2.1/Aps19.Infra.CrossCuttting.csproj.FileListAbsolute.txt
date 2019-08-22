@@ -1,6 +1,0 @@
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\bin\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.deps.json
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\bin\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.dll
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\obj\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.csprojAssemblyReference.cache
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\obj\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.csproj.CoreCompileInputs.cache
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\obj\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.AssemblyInfoInputs.cache
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\4 - Infra\4.1 - CrossCutting\Aps19.Infra.CrossCuttting\obj\Debug\netcoreapp2.1\Aps19.Infra.CrossCuttting.AssemblyInfo.cs

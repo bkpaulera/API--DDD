@@ -11,6 +11,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\2 -Domain\Aps19.Domain\Aps19.Domain.csproj" />
+    <ProjectReference Include="..\..\3 - Service\APS19.Service\APS19.Service.csproj" />
   </ItemGroup>
 
 </Project>

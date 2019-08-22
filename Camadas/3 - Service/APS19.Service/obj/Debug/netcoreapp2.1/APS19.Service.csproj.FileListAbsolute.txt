@@ -1,5 +1,3 @@
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\3 - Service\APS19.Service\bin\Debug\netcoreapp2.1\APS19.Service.deps.json
-C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\3 - Service\APS19.Service\bin\Debug\netcoreapp2.1\APS19.Service.dll
 C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\3 - Service\APS19.Service\obj\Debug\netcoreapp2.1\APS19.Service.csprojAssemblyReference.cache
 C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\3 - Service\APS19.Service\obj\Debug\netcoreapp2.1\APS19.Service.csproj.CoreCompileInputs.cache
 C:\Users\paulo.cristovam\Documents\Projects\Git Clones Project\Aps-2019\Camadas\3 - Service\APS19.Service\obj\Debug\netcoreapp2.1\APS19.Service.AssemblyInfoInputs.cache

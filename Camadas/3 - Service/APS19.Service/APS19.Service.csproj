@@ -8,4 +8,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\2 -Domain\Aps19.Domain\Aps19.Domain.csproj" />
+    <ProjectReference Include="..\..\4 - Infra\4.2 - Data\Aps19.Infra.Data\Aps19.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

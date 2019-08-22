@@ -1,5 +1,6 @@
 ﻿using Aps19.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System;
 using System.Data.Entity;
 
 namespace Aps19.Infra.Data.Context
@@ -18,7 +19,10 @@ namespace Aps19.Infra.Data.Context
 
         }
 
-
+        internal object Set<T>()
+        {
+            throw new NotImplementedException();
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
 
